@@ -5,3 +5,4 @@
 ---
 ## Outcomes Based on Goals
 ### Analyzed Sucessful, Failed and canceled outcomes based on Goal amount 
+### https://github.com/JLCraw77/Kickstart-Analysis---Challenge-1/blob/main/Outcomes_vs_Goals.png
