@@ -6,5 +6,6 @@
 ### https://github.com/JLCraw77/Kickstart-Analysis---Challenge-1/blob/main/Theater_Outcomes_vs_Launch.png
 ---
 ## Outcomes Based on Goals
-### Analyzed Sucessful, Failed and canceled outcomes based on Goal amount 
+### Analyzed Sucessful, Failed and canceled outcomes based on Goal amount
+- Successful Goals and filed goals trended the exact opposite of each other for each of the data ranges provided 
 ### https://github.com/JLCraw77/Kickstart-Analysis---Challenge-1/blob/main/Outcomes_vs_Goals.png
