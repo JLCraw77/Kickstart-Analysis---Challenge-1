@@ -1,4 +1,7 @@
-# Kickstart-Analysis-Challenge-1 - Theater Outcomes focusing on Plays
+# Kickstart-Analysis-Challenge-1 - 
+## Purpose of the Data Analytics:
+- The Purpose for this data analysis is to identify the Theater Outcomes by launch date focusing on Plays with additonal analysis looking at the Outcpomes based on the monetary goals.
+---
 ## Theater Outcomes analyzed by Launch Date
 ### Analyzed outcomes that were Successful, Failed and Canceled versus launch date
 - Data shows that the most successful launches occurred in May with the leats in December
