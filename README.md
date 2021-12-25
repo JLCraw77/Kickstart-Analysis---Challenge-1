@@ -15,4 +15,4 @@
 - Successful Goals and filed goals trended the exact opposite of each other for each of the data ranges provided 
 ### Challenges and Difficulties
 - The challenge to only looking at the outcomes based on the goals is the wide variation of goals set for a specific parent or sub Category.  There may be more success for certain parent groups based on the nature of the donations and persons interest. 
-### https://github.com/JLCraw77/Kickstart-Analysis---Challenge-1/blob/main/Outcomes_vs_Goals.png
+### https://github.com/JLCraw77/Kickstart-Analysis---Challenge-1/blob/main/Outcomes_vs_Goals-R.png
